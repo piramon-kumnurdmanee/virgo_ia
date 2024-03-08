@@ -1,0 +1,65 @@
+IC 3322A:
+2021hiz - HST post
+
+M58:
+SN 1989M
+
+M60:
+2004W - HST/Spitzer pre/post
+
+M84:
+1957B, 1980I, 1991bg - HST/Spitzer pre/post
+
+M85:
+1960R, 2020nlb - HST/Spitzer post, HST/Spitzer pre
+
+M88:
+1999cl
+
+M100:
+2006X - HST/Spitzer pre/post, JWST post
+
+NGC 4216:
+2024gy - Spitzer pre, JWST post planned
+
+NGC 4419:
+1984A - Spitzer post
+
+NGC 4424:
+2012cg - HST/Spitzer pre/post, JWST post/planned
+
+NGC 4441B:
+2021smj - HST pre/post, Spitzer pre
+
+NGC 4442:
+2021qvv - HST pre/post, Spitzer pre
+
+NGC 4457:
+2020nvb - HST/Spitzer pre, JWST planned
+
+NGC 4526:
+1994D - HST/Spitzer post
+
+NGC 4527 (Virgo?):
+1991T
+
+NGC 4536 (Virgo?):
+1981B
+
+NGC 4564:
+1961H - HST/Spitzer post
+
+NGC 4636:
+2020ue - Spitzer pre
+
+NGC 4639:
+1990N - HST/Spitzer/JWST post
+
+NGC 4647:
+2022hrs - HST pre/post, Spitzer post
+
+NGC 4666 (Virgo?):
+ASASSN-14lp
+
+NGC 4772 (Virgo?):
+2012cu
