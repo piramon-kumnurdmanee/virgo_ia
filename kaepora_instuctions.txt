@@ -18,13 +18,13 @@ pip install pypi-packages.txt
 
 git clone -b kaepora_py3 https://github.com/msiebert1/kaepora.git
 
-Download the database from here:
+Download the database from here (DEV version):
 
 https://ziggy.ucolick.org/kaepora/
 
-Add database do data folder in Kaepora
+Unpack and add database do kaepora/data folder 
 
-from src, launch kaepora_test.ipynb
+from kaepora/src directory, launch kaepora_test.ipynb
 
 jupyter-notebook kaepora_test.ipynb
 
