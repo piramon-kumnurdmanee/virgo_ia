@@ -4,15 +4,15 @@ Downloading + installing Kaepora:
 
 2) create an environment using the files on the github:
 
-conda create -n env_name -f conda-packages.txt -c conda-forge. 
+conda create -n kaepora_env -f conda_requirements.txt -c conda-forge  
 
 3) activate your environment
 
-conda activate env_name
+conda activate kaepora_env
 
 4) within environment + using pip, install the other packages
 
-pip install pypi-packages.txt
+pip install pypi_requirements.txt
 
 5) clone into the python 3 branch of Kaepora
 
