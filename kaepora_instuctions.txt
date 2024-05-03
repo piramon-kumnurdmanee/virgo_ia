@@ -1,0 +1,34 @@
+Downloading + installing Kaepora:
+
+1) Install conda
+
+2) create an environment using the files on the github:
+
+conda create -n env_name -f conda-packages.txt -c conda-forge. 
+
+3) activate your environment
+
+conda activate env_name
+
+4) within environment + using pip, install the other packages
+
+pip install pypi-packages.txt
+
+5) clone into the python 3 branch of Kaepora
+
+git clone -b kaepora_py3 https://github.com/msiebert1/kaepora.git
+
+Download the database from here:
+
+https://ziggy.ucolick.org/kaepora/
+
+Add database do data folder in Kaepora
+
+from src, launch kaepora_test.ipynb
+
+jupyter-notebook kaepora_test.ipynb
+
+check to see if you can import the module and run the code!
+
+
+
